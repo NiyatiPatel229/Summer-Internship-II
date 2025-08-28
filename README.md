@@ -31,23 +31,33 @@ Throughout the program and internship, I mastered a variety of key skills in AI 
 
 ---
 
-## 🚀 Capstone Project (Coursera): Generative AI Applications with RAG and LangChain  
+## 🚀 Capstone Project – *Land Classification: CNN-Transformer Integration*  
 
-The **capstone project** was an end-to-end implementation of a **generative AI application** using a **RAG system**.  
+The **AI Capstone Project** was focused on developing and comparing **land classification models** using **Keras and PyTorch**, with CNNs and Vision Transformers (ViTs).  
 
-**Goal**: Build a robust AI agent that provides **context-aware and accurate responses** from a custom knowledge base.  
+### 📌 Module 1: Data Loading & Augmentation (Keras & PyTorch)  
+- Implemented **memory-based vs generator-based loading**.  
+- Used **Keras ImageDataGenerator** and **PyTorch transforms** for augmentation.  
+- Explored techniques like **Random Flip, Rotation, and Resizing**.  
+- Created custom **data loaders** with batching and validation splits.  
 
-**Highlights**:  
-- Used **LangChain** to orchestrate workflows.  
-- Implemented **data ingestion and indexing** pipelines.  
-- Built retrieval and **response generation pipelines**.  
-- Combined **deep learning fundamentals** with **modern generative AI techniques**.  
+### 📌 Module 2: CNN Classifier Development (Keras & PyTorch)  
+- Built CNN models with **Conv2D + Dense layers**.  
+- Used **checkpoints** to save the best model.  
+- Trained & evaluated models in **Keras and PyTorch**.  
+- Compared training losses and validation accuracy.  
+- Implemented **metrics tracking (accuracy, precision, recall, F1-score)**.  
 
-This project serves as a comprehensive demonstration of my ability to integrate multiple AI concepts into a functional, real-world application.  
+### 📌 Module 3: Vision Transformers & Hybrid Models  
+- Loaded pre-trained CNNs as feature extractors.  
+- Integrated **CNN + ViT hybrid models** in both Keras & PyTorch.  
+- Fine-tuned ViTs with different **embedding dimensions, transformer depth, and attention heads**.  
+- Evaluated models using **validation loss curves** and **training time comparison**.  
+- Final evaluation with **classification reports** and **confusion matrices**.  
 
 ---
 
-## 💼 Summer Internship II Project: Intelligent QA Chatbot with RAG & LangChain  
+## 💼 Final Project: Intelligent QA Chatbot with RAG & LangChain  
 
 During my **Summer Internship II**, I worked on developing an **intelligent Question-Answering (QA) chatbot** capable of delivering **accurate, document-grounded responses** from a loaded knowledge base.  
 
@@ -95,7 +105,7 @@ During my **Summer Internship II**, I worked on developing an **intelligent Ques
 - **Certificate**:
     <img width="1093" height="839" alt="image" src="https://github.com/user-attachments/assets/b22a1444-8097-451c-89f1-1ddc2468d1a8" />
   
-- **Blog Link** – (https://summerinternshipii.blogspot.com/2025/08/summer-internship-22aiml037.html)     
+- **Blog Link** – https://summerinternshipii.blogspot.com/2025/08/summer-internship-22aiml037.html  
 
 ---
 
